@@ -3,4 +3,17 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="done_button">Done</string>
+    <string name="image_editor_title">Edit Image</string>
+    <string name="image_editor_dialog_title">Confirm Changes Lost</string>
+    <string name="image_editor_dialog_message">Your annotations will be lost.  Would you like to proceed anyways?</string>
+    <string name="common_button_ok">OK</string>
+    <string name="common_button_cancel">Cancel</string>
+    <string name="image_editor_load_image_loader">Loading image…</string>
+    <string name="image_editor_text_widget_hint">Enter text</string>
+    <string name="image_editor_text_widget_small_font">Small Font Selected</string>
+    <string name="image_editor_text_widget_medium_font">Medium Font Selected</string>
+    <string name="image_editor_text_widget_large_font">Large Font Selected</string>
+    <string name="image_editor_save_image_loader">Saving image…</string>
+    <string name="save">Save</string>
 </resources>

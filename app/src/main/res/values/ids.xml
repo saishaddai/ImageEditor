@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="editorPaint" type="id"/>
+    <item name="editorCircle" type="id"/>
+    <item name="editorArrow" type="id"/>
+    <item name="editorText" type="id"/>
+    <item name="editorRectangle" type="id"/>
+    <item name="editorColor" type="id"/>
+    <item name="editorColorRed" type="id"/>
+    <item name="editorColorBlue" type="id"/>
+    <item name="editorColorYellow" type="id"/>
+    <item name="editorColorGreen" type="id"/>
+    <item name="editorColorOrange" type="id"/>
+    <item name="editorColorPurple" type="id"/>
+    <item name="editorColorGray" type="id"/>
+    <item name="editorColorWhite" type="id"/>
+    <item name="editorColorBlack" type="id"/>
+
+    <item name="fontSize" type="id"/>
+    <item name="fontSizeSmall" type="id"/>
+    <item name="fontSizeMedium" type="id"/>
+    <item name="fontSizeLarge" type="id"/>
+
+</resources>

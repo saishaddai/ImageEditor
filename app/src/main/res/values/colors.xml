@@ -3,4 +3,54 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="Orange">#FFA500</color>
+    <!-- Generic -->
+    <!-- Generic Dark -->
+    <color name="DarkGreen">#006400</color>
+    <color name="DarkGray">#A9A9A9</color>
+    <!-- Generic Light -->
+    <color name="LightGrey">#D3D3D3</color>
+    <!-- Generic Medium -->
+
+    <!-- a -->
+    <color name="AliceBlue">#F0F8FF</color>
+    <!-- b -->
+    <!-- c -->
+    <color name="CornflowerBlue">#6495ED</color>
+    <!-- d -->
+    <!-- e -->
+    <!-- f -->
+    <color name="FireBrick">#B22222</color>
+    <!-- g -->
+    <color name="gray">#808080</color>
+    <color name="Goldenrod">#DAA520</color>
+    <!-- h -->
+    <!-- i -->
+    <!-- j -->
+    <!-- k -->
+    <!-- l -->
+    <!-- m -->
+    <!-- n -->
+    <!-- o -->
+    <color name="OrangeRed">#FF4500</color>
+
+    <!-- p -->
+    <!-- q -->
+    <!-- r -->
+    <!-- s -->
+    <color name="SlateGray">#708090</color>
+
+    <!-- t -->
+    <!-- u -->
+    <!-- v -->
+    <color name="purple">#800080</color>
+    <!-- w -->
+    <color name="WhiteSmoke">#F5F5F5</color>
 </resources>

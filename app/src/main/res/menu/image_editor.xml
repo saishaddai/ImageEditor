@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.trimble.harvestmark.insights.activity.ImageEditorActivity">
+    <item
+        android:id="@+id/action_undo"
+        android:icon="@drawable/ic_undo"
+        app:showAsAction="ifRoom"
+        android:title="@string/common_button_cancel" />
+    <item
+        android:id="@+id/action_cancel"
+        android:icon="@drawable/ic_menu_close_clear_cancel"
+        android:menuCategory="container"
+        android:orderInCategory="2"
+        app:showAsAction="ifRoom"
+        android:title="@string/common_button_cancel" />
+    <item
+        android:id="@+id/action_save"
+        android:icon="@drawable/ic_menu_save"
+        android:menuCategory="container"
+        android:orderInCategory="3"
+        app:showAsAction="ifRoom"
+        android:title="@string/save" />
+
+</menu>
