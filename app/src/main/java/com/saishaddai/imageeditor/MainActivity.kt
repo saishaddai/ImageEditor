@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Log.d(TAG, "main activity")
+        Log.e(TAG, "onCreate method running")
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener)
     }
 
